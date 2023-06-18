@@ -3,8 +3,10 @@
 
 The project M/s. Event Green Power Private Limited is located in SF.NO.256/7,256/9,259/3,256/6, and
 259/2 Village: Pasuvanthanai, Taluk: Ottapidaram, District: Tuticorin, State: Tamil Nadu, Country: India.
-The details of the registered project are as follows:
+
+______
 Purpose of the project activity:
+_____________
 The ecology can benefit greatly from the usage of solar energy as a substitute energy source. Solar
 energy doesn't release any carbon emissions, in contrast to fossil fuels. This is a crucial element that
 makes it far more eco-friendly than conventional energy sources. As a result, it is far more
